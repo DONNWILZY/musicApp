@@ -53,6 +53,8 @@ header .menu_slide h1{
     font: 20px;
     margin: 15px 0px 0px 20px;
     font-weight: 500;
-    
+}
 
+header .menu_slide .playlist{
+    margin: 40px 0px 0px 20px;
 }
